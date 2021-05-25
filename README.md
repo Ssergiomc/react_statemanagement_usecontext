@@ -1,3 +1,18 @@
+# react_statemanagement_usecontext
+<h1> 🔷 React Tutorial about state management with useContext</h1>
+
+<h3>- Technologies</h3>
+
+<h4>Front</h4>
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)
+
+<h3>Dev Ed Youtube tutorial</h3>
+<a href="https://www.youtube.com/watch?v=35lXWvCuM8o">Watch me</p>
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
